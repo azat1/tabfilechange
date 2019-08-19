@@ -1,0 +1,8 @@
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\ResolveAssemblyReference.cache
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\tabfilechange.Form1.resources
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\tabfilechange.Properties.Resources.resources
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\tabfilechange.csproj.GenerateResource.Cache
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\bin\Debug\tabfilechange.exe
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\bin\Debug\tabfilechange.pdb
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\tabfilechange.exe
+C:\projects2\tabfilechange\tabfilechange\tabfilechange\obj\Debug\tabfilechange.pdb
